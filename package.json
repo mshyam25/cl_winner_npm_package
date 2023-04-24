@@ -1,0 +1,22 @@
+{
+  "name": "winner_cl",
+  "version": "1.0.0",
+  "description": "Winner of Champions League for the past 5 years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshyam25/cl_winner_npm_package.git"
+  },
+  "keywords": [
+    "Champions_League"
+  ],
+  "author": "Shyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshyam25/cl_winner_npm_package/issues"
+  },
+  "homepage": "https://github.com/mshyam25/cl_winner_npm_package#readme"
+}
