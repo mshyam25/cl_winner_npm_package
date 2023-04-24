@@ -1,19 +1,19 @@
-cl_winner = (year) => {
+cl_finalists = (year) => {
   switch (year) {
     case 2017:
-      console.log('Real Madrid');
+      console.log('Real Madrid vs Liverpool');
       break;
     case 2018:
-      console.log('Liverpool');
+      console.log('Liverpool vs Tottenham');
       break;
     case 2019:
-      console.log('Bayern Munich');
+      console.log('Bayern Munich vs PSG');
       break;
     case 2020:
-      console.log('Chelsea');
+      console.log('Chelsea vs Mancity');
       break;
     case 2021:
-      console.log('Real Madrid');
+      console.log('Real Madrid vs Liverpool');
       break;
     default:
       console.log('Data not available');
@@ -24,4 +24,4 @@ cl_winner = (year) => {
 //   return string === 'RMA';
 // };
 
-module.exports = cl_winner;
+module.exports = cl_finalists;
